@@ -1,2 +1,0 @@
-# catName
-Created with CodeSandbox
